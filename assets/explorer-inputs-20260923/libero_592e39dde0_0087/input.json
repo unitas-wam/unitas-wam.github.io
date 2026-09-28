@@ -1,0 +1,62 @@
+{
+  "key": "libero_592e39dde0_0087",
+  "instruction": "put the black bowl on top of the cabinet",
+  "rgb": "rgb.png",
+  "width": 960,
+  "height": 960,
+  "source_width": 256,
+  "source_height": 256,
+  "camera_to_world": [
+    [
+      -0.0,
+      0.6282662749290466,
+      -0.7779983878135681,
+      1.318613052368164
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -0.0,
+      -0.7779983878135681,
+      -0.6282662749290466,
+      0.6983500123023987
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "intrinsic": [
+    [
+      1158.822509765625,
+      0.0,
+      480.0
+    ],
+    [
+      0.0,
+      1158.822509765625,
+      480.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "camera_name": "agentview",
+  "interaction_center": [
+    0.7322957515716553,
+    -0.16486692428588867,
+    0.20703892409801483
+  ],
+  "source_frame": 87,
+  "rgb_method": "native simulator rerender from saved sim_states at 960x960",
+  "query": "exact initial positions from model output; no resampling",
+  "lossless_png": true
+}

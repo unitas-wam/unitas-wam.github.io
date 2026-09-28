@@ -1,0 +1,62 @@
+{
+  "key": "libero_3d040e000e_0077",
+  "instruction": "put the white mug on the plate",
+  "rgb": "rgb.png",
+  "width": 960,
+  "height": 960,
+  "source_width": 256,
+  "source_height": 256,
+  "camera_to_world": [
+    [
+      -1.2364340591375367e-06,
+      0.5287702679634094,
+      -0.848764955997467,
+      1.1165770292282104
+    ],
+    [
+      1.0,
+      1.2364340591375367e-06,
+      -6.864614761070698e-07,
+      1.0224012256384793e-13
+    ],
+    [
+      6.864614761070698e-07,
+      -0.848764955997467,
+      -0.5287702679634094,
+      0.5399999618530273
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "intrinsic": [
+    [
+      1158.822509765625,
+      0.0,
+      480.0
+    ],
+    [
+      0.0,
+      1158.822509765625,
+      480.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "camera_name": "agentview",
+  "interaction_center": [
+    0.4331223964691162,
+    -0.10710950195789337,
+    0.197785422205925
+  ],
+  "source_frame": 77,
+  "rgb_method": "native simulator rerender from saved sim_states at 960x960",
+  "query": "exact initial positions from model output; no resampling",
+  "lossless_png": true
+}

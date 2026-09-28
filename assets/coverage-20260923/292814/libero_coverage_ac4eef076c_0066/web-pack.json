@@ -1,0 +1,1 @@
+{"format": "initial-float32+relative-int16-gzip", "quantum_m": 0.0001, "max_point_error_m": 8.618293213658035e-05, "frames": 21, "points": 45509, "raw_prediction_unchanged": true, "bytes": 6100384}

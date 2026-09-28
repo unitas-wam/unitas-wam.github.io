@@ -1,0 +1,34 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:05.612
+Given an instruction, how should the robot act—and how will the world respond?
+
+2
+00:00:12.350 --> 00:00:18.662
+We introduce UNITAS: A 3D-Native World-Action Model for Embodied Manipulation.
+
+3
+00:00:20.300 --> 00:00:26.540
+Calibrated RGB-D observations bring the scene into a shared three-dimensional space.
+
+4
+00:00:29.500 --> 00:00:35.068
+Given an observation and an instruction, we first predict how the gripper should move.
+
+5
+00:00:38.200 --> 00:00:42.280
+That predicted motion conditions how the rest of the scene will change.
+
+6
+00:00:45.500 --> 00:00:50.132
+From articulated motion, to close contact with everyday objects.
+
+7
+00:00:57.300 --> 00:01:00.948
+Across diverse tasks and simulated environments.
+
+8
+00:01:09.500 --> 00:01:16.532
+UNITAS. Unifying observation, action, and world dynamics in one physical space.
+

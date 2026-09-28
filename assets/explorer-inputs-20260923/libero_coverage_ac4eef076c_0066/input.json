@@ -1,0 +1,62 @@
+{
+  "key": "libero_coverage_ac4eef076c_0066",
+  "instruction": "turn on the stove and put the frying pan on it",
+  "rgb": "rgb.png",
+  "width": 960,
+  "height": 960,
+  "source_width": 256,
+  "source_height": 256,
+  "camera_to_world": [
+    [
+      -0.0,
+      0.6282662749290466,
+      -0.7779983878135681,
+      1.318613052368164
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -0.0,
+      -0.7779983878135681,
+      -0.6282662749290466,
+      0.6983500123023987
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "intrinsic": [
+    [
+      1158.822509765625,
+      0.0,
+      480.0
+    ],
+    [
+      0.0,
+      1158.822509765625,
+      480.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "camera_name": "agentview",
+  "interaction_center": [
+    0.4613687992095947,
+    0.19261424243450165,
+    0.07710536569356918
+  ],
+  "source_frame": 66,
+  "rgb_method": "native simulator rerender from saved sim_states at 960x960",
+  "query": "exact initial positions from model output; no resampling",
+  "lossless_png": true
+}

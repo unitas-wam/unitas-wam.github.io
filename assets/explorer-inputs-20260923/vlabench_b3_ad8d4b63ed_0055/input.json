@@ -1,0 +1,62 @@
+{
+  "key": "vlabench_b3_ad8d4b63ed_0055",
+  "instruction": "Pick up the mahjong of 7 man",
+  "rgb": "rgb.png",
+  "width": 480,
+  "height": 480,
+  "source_width": 480,
+  "source_height": 480,
+  "camera_to_world": [
+    [
+      -0.0157945454120636,
+      0.5512040257453918,
+      -0.8342210650444031,
+      1.6229867935180664
+    ],
+    [
+      0.9998753070831299,
+      0.00870710238814354,
+      -0.013177785091102123,
+      0.017292434349656105
+    ],
+    [
+      -4.895541194649411e-10,
+      -0.8343250751495361,
+      -0.5512728095054626,
+      0.8640000820159912
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "intrinsic": [
+    [
+      579.4112548828125,
+      0.0,
+      240.0
+    ],
+    [
+      0.0,
+      579.4112548828125,
+      240.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "camera_name": "front_camera",
+  "interaction_center": [
+    0.3161652088165283,
+    -0.310731440782547,
+    0.0935363844037056
+  ],
+  "source_frame": 55,
+  "rgb_method": "native source video frame decoded losslessly to PNG",
+  "query": "exact initial positions from model output; no resampling",
+  "lossless_png": true
+}

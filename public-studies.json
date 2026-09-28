@@ -1,0 +1,442 @@
+[
+  {
+    "key": "robotwin_7c59d8eb33_0088",
+    "title": "Bimanual lifting",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_7c59d8eb33_0088/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "vlabench_1ffbd3923b_0152",
+    "title": "Insert the chrysanthemum into the vase_seen.",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_1ffbd3923b_0152/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "vlabench_1ffbd3923b_0129",
+    "title": "Flower insertion",
+    "domain": "VLABench",
+    "base": "assets/full-arm-292814-panda-trails/vlabench_1ffbd3923b_0129/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_3d040e000e_0077",
+    "title": "Put the white mug on the plate.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_3d040e000e_0077/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "vlabench_6247189d0f_0064",
+    "title": "Book extraction",
+    "domain": "VLABench",
+    "base": "assets/full-arm-292814-panda-trails/vlabench_6247189d0f_0064/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_clean_7779f30bed_0150",
+    "title": "Drawer opening",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_clean_7779f30bed_0150/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_3a85debc55_0253",
+    "title": "Place red block and green block together at the center, then stack green block on top.",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_3a85debc55_0253/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_clean_aaaf3b18d1_0092",
+    "title": "Use the left arm to grab the tabletop paymentsign, rotate, and face the QR code towards you.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_clean_aaaf3b18d1_0092/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "libero_592e39dde0_0087",
+    "title": "Put the black bowl on top of the cabinet.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_592e39dde0_0087/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_09dadde407_0108",
+    "title": "Carefully grab the dark drink bottle with logo head-up.",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_09dadde407_0108/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_b3_ad8d4b63ed_0055",
+    "title": "Pick up the mahjong of 7 man",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_b3_ad8d4b63ed_0055/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_random_ed73ecdc50_0104",
+    "title": "Use the left arm to grab the brown sole shoe and transfer it to the mat",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_random_ed73ecdc50_0104/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "vlabench_extra_8a122dd166_0068",
+    "title": "Put the buzz_lightyear into the giftbox_seen",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_extra_8a122dd166_0068/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "libero_coverage_ac4eef076c_0066",
+    "title": "turn on the stove and put the frying pan on it",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_ac4eef076c_0066/",
+    "real": false,
+    "interactive": true
+  },
+  {
+    "key": "robotwin_clean_32ea90ec5f_0138",
+    "title": "Gravity after release",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_clean_32ea90ec5f_0138/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_clean_3a4a0f8a8a_0416",
+    "title": "Microwave opening",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_clean_3a4a0f8a8a_0416/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_0ffbe17e93_0117",
+    "title": "Open the middle drawer of the cabinet.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_0ffbe17e93_0117/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_d52bf8bbb1_0227",
+    "title": "Place the red block on the blue pad.",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_d52bf8bbb1_0227/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_a7ca8ef78d_0042",
+    "title": "Close the top drawer of the cabinet.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_a7ca8ef78d_0042/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_e9ae7288a5_0077",
+    "title": "Put the black bowl in the top drawer of the cabinet.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_e9ae7288a5_0077/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_4a1c2b8106_0101",
+    "title": "Open the microwave.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_4a1c2b8106_0101/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_clean_6eb7069912_0085",
+    "title": "Move the orange bottle toward the blue pad.",
+    "domain": "RoboTwin",
+    "base": "assets/full-arm-292814-panda-trails/robotwin_clean_6eb7069912_0085/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_d751a88b07_0068",
+    "title": "Put the wine bottle in the bottom drawer of the cabinet.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_d751a88b07_0068/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_89ba5355d7_0081",
+    "title": "Pick up the book and place it in the back compartment of the caddy.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_89ba5355d7_0081/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_ef75ad8e9c_0041",
+    "title": "Put the white mug on the left plate.",
+    "domain": "LIBERO",
+    "base": "assets/full-arm-292814-panda-trails/libero_ef75ad8e9c_0041/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_f4086be9d8_0092",
+    "title": "Grab the metal kitchenpot and lift it up",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_f4086be9d8_0092/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_clean_8971be2196_0160",
+    "title": "Move the white wrapper enclosing golden hamburg and the Red fries box with dual arms to the rectangular plastic tray.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_clean_8971be2196_0160/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_b3_19bf68faa1_0148",
+    "title": "Insert the chrysanthemum into the vase_seen.",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_b3_19bf68faa1_0148/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_1bc8e4889f_0116",
+    "title": "Insert the chrysanthemum into the vase_seen.",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_1bc8e4889f_0116/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_b3_92ca7bb2a2_0072",
+    "title": "Pick up the wooden rolling tool from the table.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_b3_92ca7bb2a2_0072/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_extra_e93d850b88_0108",
+    "title": "Take out the juice_seen from the fridge_open",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_extra_e93d850b88_0108/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_extra_bb02a11f19_0072",
+    "title": "Pick up the mahjong of 8 sou",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_extra_bb02a11f19_0072/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_clean_723fb89834_0076",
+    "title": "Take the bottle holding liquid and the black plastic bottle with Pepsi logo together, one per arm.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_clean_723fb89834_0076/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_b3_7f3938e3a1_0057",
+    "title": "Please pick the poker 9 of spades",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_b3_7f3938e3a1_0057/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_clean_ada83ddf6d_0084",
+    "title": "Lift the smooth plastic bottle and shake it gently.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_clean_ada83ddf6d_0084/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "robotwin_random_7b97cdd6a2_0232",
+    "title": "Hold the ceramic bowl and stack the bowl with shiny texture neatly atop.",
+    "domain": "RoboTwin",
+    "base": "assets/coverage-20260923/292814/robotwin_random_7b97cdd6a2_0232/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "vlabench_extra_7ca28b647e_0068",
+    "title": "Please pick the poker 6 of clubs",
+    "domain": "VLABench",
+    "base": "assets/coverage-20260923/292814/vlabench_extra_7ca28b647e_0068/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_89fd891549_0063",
+    "title": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_89fd891549_0063/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_144acbcf45_0022",
+    "title": "close the top drawer of the cabinet",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_144acbcf45_0022/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_bf502ea13c_0121",
+    "title": "put the butter at the back in the top drawer of the cabinet and close it",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_bf502ea13c_0121/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_afa95b4634_0094",
+    "title": "put the black bowl on top of the cabinet",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_afa95b4634_0094/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_5b8e53fa00_0112",
+    "title": "pick up the book and place it in the front compartment of the caddy",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_5b8e53fa00_0112/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_144acbcf45_0033",
+    "title": "close the top drawer of the cabinet",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_144acbcf45_0033/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_extra_62b507f9d6_0132",
+    "title": "put the frying pan on the cabinet shelf",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_extra_62b507f9d6_0132/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_8374960168_0095",
+    "title": "pick up the book and place it in the left compartment of the caddy",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_8374960168_0095/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_d7e8803589_0084",
+    "title": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_d7e8803589_0084/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_extra_a0df2e4b18_0100",
+    "title": "turn off the stove",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_extra_a0df2e4b18_0100/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_9e60a9cda3_0071",
+    "title": "put the red mug on the plate",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_9e60a9cda3_0071/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_0c1473623e_0110",
+    "title": "put both the alphabet soup and the cream cheese box in the basket",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_0c1473623e_0110/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_101ab45d48_0224",
+    "title": "turn on the stove and put the moka pot on it",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_101ab45d48_0224/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_extra_edeb90152e_0108",
+    "title": "put the yellow and white mug in the microwave and close it",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_extra_edeb90152e_0108/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "libero_coverage_6eb48469ac_0105",
+    "title": "stack the right bowl on the left bowl and place them in the tray",
+    "domain": "LIBERO",
+    "base": "assets/coverage-20260923/292814/libero_coverage_6eb48469ac_0105/",
+    "real": false,
+    "interactive": false
+  },
+  {
+    "key": "droid_b3338a7786_0170",
+    "title": "Lower the lid onto the pot.",
+    "domain": "DROID",
+    "base": "assets/full-arm-292814-panda-trails/droid_b3338a7786_0170/",
+    "real": true,
+    "interactive": false
+  },
+  {
+    "key": "robomind_ab006dad36_0356",
+    "title": "Turn the blue cup upright and move it toward the plate.",
+    "domain": "RoboMind",
+    "base": "assets/full-arm-292814-panda-trails/robomind_ab006dad36_0356/",
+    "real": true,
+    "interactive": false
+  },
+  {
+    "key": "droid_container_0070",
+    "title": "Move the orange object toward the metal pan.",
+    "domain": "DROID",
+    "base": "assets/full-arm-292814-panda-trails/droid_container_0070/",
+    "real": true,
+    "interactive": false
+  }
+]
