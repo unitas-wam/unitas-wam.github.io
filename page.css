@@ -46,10 +46,11 @@
 .hero-authors{display:flex;flex-direction:column;gap:8px}
 .author-row{display:flex;justify-content:center;flex-wrap:wrap;gap:8px 24px}
 .hero-links{align-items:stretch;gap:14px}
-.hero-links a,.hero-links .resource-pending{display:flex;align-items:center;justify-content:center;gap:12px;min-width:150px;border:1px solid #ffffff80;border-radius:100px;padding:12px 24px;background:#ffffff12;font-size:20px;font-weight:600;line-height:1.2}
+.hero-links a,.hero-links .resource-pending{display:flex;align-items:center;justify-content:center;gap:9px;min-width:130px;border:1px solid #ffffff80;border-radius:100px;padding:10px 20px;background:#ffffff12;font-size:17px;font-weight:600;line-height:1.2}
 .hero-links .resource-pending{cursor:default}
 .hero-links small{display:block;margin-top:4px;font-size:10px;font-weight:400;letter-spacing:.04em;opacity:.85}
-.resource-icon{font-size:26px}.paper-icon{font:17px Georgia,serif}
+.hero-links svg{width:21px;height:21px}
+.resource-icon{font-size:22px}.paper-icon{font:15px Georgia,serif}
 .film-introduction{display:block;padding-top:64px;padding-bottom:70px}
 .film-introduction h2{margin:18px 0 24px}
 .research-film{display:block;width:100%;aspect-ratio:16/9;background:#fff;border-radius:5px}
