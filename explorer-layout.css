@@ -28,3 +28,22 @@
 @media(min-width:1600px){#motion-rgb{height:290px}#input-query-stage{min-height:280px}.explorer-columns #motion-stage{min-height:590px}}
 @media(max-width:950px){.explorer-columns{grid-template-columns: minmax(220px,1fr) minmax(0,1.6fr);gap:16px}#motion-rgb{height:220px}.input-language{padding:15px}#input-language{font-size:14px}.explorer-columns .motion-controls{flex-wrap:wrap}.explorer-columns #motion-stage{min-height:430px}}
 @media(max-width:680px){#interactive{padding-inline:5vw}.explorer-columns{grid-template-columns:1fr;gap:24px}.input-panel{display:grid;grid-template-columns:1fr 1fr}.input-rgb-link{grid-column:1}.input-language{grid-column:2;grid-row:1;border-bottom:0;padding:12px}.input-query-heading,#input-query-stage,.input-camera-caption{grid-column:1/-1}#motion-rgb{height:180px}#input-query-stage{height:230px;min-height:230px}.explorer-columns #motion-stage{height:430px;min-height:430px}#motion-samples button{flex-basis:120px}#interactive .explorer-select select{max-width:100%}}
+
+/* Keep the overview, explorer, and study films on a shared, quieter measure. */
+#film,#interactive,#studies{
+  max-width:none;
+  padding-inline:max(6vw,calc((100% - 1200px)/2));
+}
+@media(max-width:680px){
+  #film,#interactive,#studies{padding-inline:20px}
+  #interactive .explorer-select select{width:100%;min-width:0}
+  .explorer-columns .motion-controls{flex-wrap:wrap}
+  .explorer-columns .motion-controls input[type=range]{order:5;flex-basis:100%;height:30px}
+  .input-query-heading{flex-wrap:wrap;gap:6px;padding-inline:14px}
+  #input-language{overflow-wrap:anywhere}
+}
+@media(max-width:380px){
+  .input-panel{display:flex}
+  #motion-rgb{height:200px}
+  .input-language{border-bottom:1px solid #eceee9}
+}

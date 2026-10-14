@@ -26,3 +26,22 @@ setInterval(()=>{for(const video of document.querySelectorAll('video')){const q=
  new ResizeObserver(schedule).observe(cover);
  update();
 })();
+
+// Copy the exact citation text; retain manual selection if clipboard access fails.
+(()=>{
+ const button=document.querySelector('#citation-copy');
+ const code=document.querySelector('#citation-bibtex');
+ const status=document.querySelector('#citation-status');
+ if(!button||!code||!status)return;
+ button.addEventListener('click',async()=>{
+  try{
+   await navigator.clipboard.writeText(code.textContent);
+   status.textContent='BibTeX copied to clipboard.';
+  }catch{
+   const selection=window.getSelection();
+   const range=document.createRange();range.selectNodeContents(code);
+   selection.removeAllRanges();selection.addRange(range);
+   status.textContent='Select and copy the highlighted BibTeX below.';
+  }
+ });
+})();

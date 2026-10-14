@@ -56,7 +56,7 @@
 .research-film{display:block;width:100%;aspect-ratio:16/9;background:#fff;border-radius:5px}
 .minimal-footer{display:flex;justify-content:center;text-align:center;padding:32px 20px;font-size:13px}
 @media(max-width:900px){.hero-paper-title{white-space:normal;text-wrap:balance}.author-row{gap:7px 15px}.hero-authors{font-size:14px}}
-@media(max-width:600px){.hero-name{font-size:76px}.hero-paper-title{font-size:25px}.hero-authors{font-size:12px;gap:10px}.author-row{gap:6px 12px}.hero-links{gap:7px;width:100%}.hero-links a,.hero-links .resource-pending{min-width:0;flex:1;font-size:13px;gap:5px;padding:11px 8px}.hero-links small{font-size:8px}.hero-links svg{width:18px;height:18px}.resource-icon{font-size:19px}.paper-icon{font-size:12px}.cinema-sticky{min-height:960px}.film-introduction{padding-top:42px;padding-bottom:42px}}
+@media(max-width:600px){.hero-name{font-size:76px}.hero-paper-title{font-size:25px}.hero-authors{font-size:12px;gap:10px}.author-row{gap:6px 12px}.hero-links{gap:7px;width:100%;flex-wrap:wrap}.hero-links a,.hero-links .resource-pending{min-width:0;flex:1 1 calc(50% - 7px);font-size:13px;gap:5px;padding:11px 8px}.hero-links small{font-size:8px}.hero-links svg{width:18px;height:18px}.resource-icon{font-size:19px}.paper-icon{font-size:12px}.cinema-sticky{min-height:960px}.film-introduction{padding-top:42px;padding-bottom:42px}}
 
 /* Navigation appears after the cover and remains pinned through the content. */
 html{scroll-padding-top:88px}
@@ -67,3 +67,27 @@ header.nav.is-visible{transform:translateY(0);opacity:1;visibility:visible;point
 @media(min-width:1700px){.cinema-sticky{height:100svh}}
 @media(max-width:600px){html{scroll-padding-top:116px}.cinema-sticky{height:auto}}
 @media(prefers-reduced-motion:reduce){header.nav{transition:none}}
+
+/* Closing citation panel follows the same measure as the project media. */
+.citation{padding:64px max(6vw,calc((100% - 1200px)/2));background:#fbfaf7}
+.citation-heading{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.citation-heading h2{margin-bottom:0}
+.citation-intro{font-size:14px;line-height:1.7;color:var(--muted);margin:20px 0 24px}
+.citation-copy{flex-shrink:0;border:1px solid #bcc7bb;border-radius:24px;background:transparent;color:var(--ink);padding:11px 18px;font-size:12px;min-height:44px}
+.citation-copy:hover{background:#e8eee3}
+.citation-code{margin:0;border:1px solid var(--line);border-radius:8px;background:#eef0ea;padding:24px;color:#34473a;font:13px/1.8 ui-monospace,SFMono-Regular,Consolas,monospace;white-space:pre-wrap;overflow-wrap:anywhere;tab-size:2}
+.citation-status{min-height:20px;margin:10px 0 0;font-size:12px;color:var(--muted)}
+@media(max-width:680px){.citation{padding:48px 20px}.citation-code{padding:16px;font-size:11px}.citation-heading{align-items:flex-end;gap:12px}.citation-heading h2{font-size:25px}.citation-copy{padding:10px 14px}}
+
+/* Evaluation keeps the paper palette, with green reserved for the results. */
+.results{background:#f0f1ed;color:var(--ink)}
+.results .section-label,.results em{color:var(--accent)}
+.results .metrics strong{color:#345642}
+.results .metrics small,.results .figure-note,.results .section-head p,.results .real-results p{color:#58655c}
+#benchmark-table{background:#fbfcf9}
+#benchmark-table caption{color:#58655c}
+#benchmark-table th,#benchmark-table td{border-bottom-color:#d6ded3}
+#benchmark-table thead{background:#e9ede5}
+#benchmark-table .group{background:#e9ede5;color:#4a614e}
+#benchmark-table .ours{background:#e1ebdc;color:#243e2d}
+#benchmark-table .ours:last-child{background:#d5e4cf}
